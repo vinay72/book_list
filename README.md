@@ -9,5 +9,5 @@ A Reducer is a function that returns a piece of the application state.
 <h1>You can clone this repository by Typing :- git clone https://github.com/vinay72/book_list.git in Your Terminal.</h1>
 <h1>You can see the status by typing 'git status' in your Terminal in Linux OS.</h1>
 <h1>You commit the changes which you make in this Repository.</h1>
-<h1>You push by typing 'git push'.</h1>
+<h1>You push the changes made by typing 'git push'.</h1>
 <h1>All the changes are now pushed to your Repository.</h1>
