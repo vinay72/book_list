@@ -7,7 +7,7 @@ A Reducer is a function that returns a piece of the application state.
 <h2>Steps for Contributing to this Project.</h2>
 First you have to Fork This Repository on GitHub.<br>
 You can clone this repository by Typing :- git clone https://github.com/vinay72/book_list.git in Your Terminal.<br>
-You can see the status by typing 'git status' in your Terminal in Linux OS.
+You can see the status by typing 'git status' in your Terminal in Linux OS.<br>
 You commit the changes which you make in this Repository.
 You push the changes made by typing 'git push'.
 All the changes are now pushed to your Repository.
