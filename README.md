@@ -1,7 +1,7 @@
 # book_list
 This Redux app contains list of books and you can choose anyone which you want to read . 
 <h2>Redux is a Predictable State Container for JavaScript Applications.</h2>
-This app contains list of books and you can choose book which you want to read or you can  also choose your favourite book to read.
+This app contains list of books and you can choose book which you want to read or you can  also choose your favourite book to read.<br>
 This is a Redux application which helps you to sort books and read on the basis of your own choice anytime.<br>
 A Reducer is a function that returns a piece of the application state.
 <h2>Steps for Contributing to this Project.</h2>
