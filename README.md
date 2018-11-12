@@ -9,5 +9,5 @@ First you have to Fork This Repository on GitHub.<br>
 You can clone this repository by Typing :- git clone https://github.com/vinay72/book_list.git in Your Terminal.<br>
 You can see the status by typing 'git status' in your Terminal in Linux OS.<br>
 You commit the changes which you make in this Repository.<br>
-You push the changes made by typing 'git push'.
+You push the changes made by typing 'git push'.<br>
 All the changes are now pushed to your Repository.
