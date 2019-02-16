@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import {selectBook} form '../actions/index';
+import {selectBook} from '../actions/index';
 import {bindActionCreators} from 'redux'; 
 
 
