@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 class BookDetail extends Component{
+	
+	 if(!this.props.book){
+   	  return <div>Select a book to get started.</div>
+   }
+	
 	render(){
 		return (
         <div>
