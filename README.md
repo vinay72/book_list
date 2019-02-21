@@ -11,3 +11,7 @@ You can see the status by typing 'git status' in your Terminal in Linux OS.<br>
 You commit the changes which you make in this Repository.<br>
 You push the changes made by typing 'git push'.<br>
 All the changes are now pushed to your Repository.<br>
+### Output
+https://github.com/vinay72/book_list/blob/master/img/v1.png <br>
+https://github.com/vinay72/book_list/blob/master/img/v2.png <br>
+https://github.com/vinay72/book_list/blob/master/img/v3.png
